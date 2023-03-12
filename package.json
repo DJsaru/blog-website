@@ -7,10 +7,8 @@
     "doc": "docs"
   },
   "scripts": {
-    "start": "node ejsapp.js",
-    "build": "react-scripts build",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "eject": "react-scripts eject"
+    "start": "node ejsapp.js"
   },
   "author": "",
   "license": "ISC",
